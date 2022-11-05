@@ -1,2 +1,2 @@
-# Repozit-
+# Repozitar
 Nový repozitář
